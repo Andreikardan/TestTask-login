@@ -6,7 +6,7 @@ import { store } from './store';
 function App(): JSX.Element {
   return (
     <Provider store={store}>
-      <RouterProvider router={router} />
+      <RouterProvider router={router}  />
     </Provider>
   );
 }

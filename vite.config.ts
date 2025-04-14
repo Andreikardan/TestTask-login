@@ -7,7 +7,7 @@ const __dirname = path.resolve();
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/TestTask-login',
+  base: '/TestTask-login/',
   resolve: {
     alias: [{ find: '@', replacement: path.resolve(__dirname, 'src') }]
   }
