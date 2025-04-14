@@ -1,0 +1,12 @@
+[
+  {
+    "email": "testuser@asd.ru",
+    "password": "testpass",
+    "username": "Тестовый Пользователь"
+  },
+  {
+    "email": "admin@asd.ru",
+    "password": "admin123",
+    "username": "Администратор"
+  }
+]
